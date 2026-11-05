@@ -1,0 +1,4 @@
+exclude:
+  - "GuardaPrompts - Front/node_modules"
+  - "node_modules"
+  - "vendor"
